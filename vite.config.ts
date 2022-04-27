@@ -25,6 +25,8 @@ export default defineConfig({
       presets: [presetUno(), presetAttributify()],
       transformers: [transformerDirectives(), transformerVariantGroup()]
     }),
-    Icons()
+    Icons({
+      autoInstall: true
+    })
   ]
 });
