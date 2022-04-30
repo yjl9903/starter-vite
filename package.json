@@ -3,7 +3,7 @@
   "scripts": {
     "build": "vite build",
     "dev": "vite",
-    "format": "prettier --write src/**/*.{ts,js,vue} --ignore-path .gitignore",
+    "format": "prettier --write src/**/*.{ts,vue} --ignore-path .gitignore",
     "preview": "vite preview",
     "typecheck": "vue-tsc --noEmit -p package.json --resolveJsonModule --skipLibCheck"
   },
