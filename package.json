@@ -19,7 +19,7 @@
     "unocss": "^0.34.0",
     "unplugin-icons": "^0.14.3",
     "vite": "^2.9.9",
-    "vitest": "^0.12.7",
+    "vitest": "^0.13.0",
     "vue-tsc": "^0.34.15"
   },
   "packageManager": "pnpm@7.0.1"
