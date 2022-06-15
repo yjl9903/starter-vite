@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@types/node": "17.0.43",
-    "@unocss/reset": "0.38.2",
+    "@unocss/reset": "0.39.0",
     "@vitejs/plugin-vue": "2.3.3",
     "prettier": "2.7.0",
     "typescript": "4.7.3",
