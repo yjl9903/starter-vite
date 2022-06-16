@@ -2,9 +2,14 @@
   "extends": [
     "config:base"
   ],
+	"pin": false,
   "packageRules": [
     {
       "matchDepTypes": ["devDependencies"],
+      "automerge": true
+    },
+    {
+      "matchManagers": ["github-actions"],
       "automerge": true
     }
   ]
