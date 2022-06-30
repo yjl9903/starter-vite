@@ -7,7 +7,7 @@ specifiers:
   prettier: ^2.7.1
   typescript: ^4.7.4
   unocss: ^0.42.0
-  unplugin-icons: ^0.14.6
+  unplugin-icons: ^0.14.7
   vite: ^2.9.13
   vitest: ^0.16.0
   vue: ^3.2.37
@@ -23,7 +23,7 @@ devDependencies:
   prettier: 2.7.1
   typescript: 4.7.4
   unocss: 0.42.0_vite@2.9.13
-  unplugin-icons: 0.14.6_vite@2.9.13
+  unplugin-icons: 0.14.7_vite@2.9.13
   vite: 2.9.13
   vitest: 0.16.0
   vue-tsc: 0.38.2_typescript@4.7.4
@@ -1182,8 +1182,8 @@ packages:
       - vite
     dev: true
 
-  /unplugin-icons/0.14.6_vite@2.9.13:
-    resolution: {integrity: sha512-8sxDiL4l+TV4zufZfrskgHZZSDFoGOCBgYsefRMM4inQ3Z6KhgMSuNyew7U7D/xG//rwxgD7bN+Dv+YAZEEfEw==}
+  /unplugin-icons/0.14.7_vite@2.9.13:
+    resolution: {integrity: sha512-TrNnEdpaXMdiG5BsCgvU6cv/gSLYvIk1f8wGCGZmOo4wmi3nqYBuqIEuiXhmmyXdDZuRRpCaOzCnCYYZ5H7U8g==}
     peerDependencies:
       '@svgr/core': '>=5.5.0'
       '@vue/compiler-sfc': ^3.0.2
