@@ -2,7 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@types/node': ^18.0.0
-  '@unocss/reset': ^0.41.2
+  '@unocss/reset': ^0.42.0
   '@vitejs/plugin-vue': ^2.3.3
   prettier: ^2.7.1
   typescript: ^4.7.4
@@ -18,7 +18,7 @@ dependencies:
 
 devDependencies:
   '@types/node': 18.0.0
-  '@unocss/reset': 0.41.2
+  '@unocss/reset': 0.42.0
   '@vitejs/plugin-vue': 2.3.3_vite@2.9.13+vue@3.2.37
   prettier: 2.7.1
   typescript: 4.7.4
@@ -217,6 +217,10 @@ packages:
 
   /@unocss/reset/0.41.2:
     resolution: {integrity: sha512-/Ib51/7EG9Jb0D57mJPUohdGAB8YXaCL6vtol7RWnsv1kJL7mHJkccTDYN0vnE5RjvJGWhuCeOzeCaK4rM1/lw==}
+    dev: true
+
+  /@unocss/reset/0.42.0:
+    resolution: {integrity: sha512-RwR/qksaLwcmm1ahZRAWwthd0RIdSFpFUzfpAm5WuIIoDOpbHyQL/ZYE3Al0KcQ4uXbb4ruJQWE6oKRtku644w==}
     dev: true
 
   /@unocss/scope/0.41.2:
