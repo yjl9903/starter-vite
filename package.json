@@ -20,7 +20,7 @@
     "unplugin-icons": "^0.14.7",
     "vite": "^2.9.14",
     "vitest": "^0.18.0",
-    "vue-tsc": "^0.38.4"
+    "vue-tsc": "^0.38.5"
   },
   "packageManager": "pnpm@7.5.0"
 }
