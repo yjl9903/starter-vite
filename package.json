@@ -22,5 +22,5 @@
     "vitest": "^0.18.0",
     "vue-tsc": "^0.38.5"
   },
-  "packageManager": "pnpm@7.5.0"
+  "packageManager": "pnpm@7.5.1"
 }
