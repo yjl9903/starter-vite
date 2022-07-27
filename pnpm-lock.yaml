@@ -10,7 +10,7 @@ specifiers:
   unplugin-auto-import: 0.10.1
   unplugin-vue-components: ^0.21.2
   vite: ^3.0.3
-  vite-plugin-info: ^0.2.0
+  vite-plugin-info: ^0.3.0
   vitest: ^0.19.1
   vue: ^3.2.37
   vue-tsc: ^0.39.0
@@ -28,7 +28,7 @@ devDependencies:
   unplugin-auto-import: 0.10.1_vite@3.0.3
   unplugin-vue-components: 0.21.2_vite@3.0.3+vue@3.2.37
   vite: 3.0.3
-  vite-plugin-info: 0.2.0_vite@3.0.3
+  vite-plugin-info: 0.3.0_vite@3.0.3
   vitest: 0.19.1
   vue-tsc: 0.39.0_typescript@4.7.4
 
@@ -1442,8 +1442,8 @@ packages:
       webpack-virtual-modules: 0.4.4
     dev: true
 
-  /vite-plugin-info/0.2.0_vite@3.0.3:
-    resolution: {integrity: sha512-eGZ+nXVclxO9PQlvI1unFvTF4Vfn0WiTsvnEE+q/ojnwk8RIwSjzjHlhg+3WgUaUK3d1xAW9BnLdtG4nR7GblA==}
+  /vite-plugin-info/0.3.0_vite@3.0.3:
+    resolution: {integrity: sha512-k32TSx+Q6KPubnzVSf8v46w4Abxj0gyB1Pro5wVUPhgEXqyWizxSCzsPSZ7PWI4Ivft+xj4XTaRT9Ym326lSwQ==}
     peerDependencies:
       vite: ^2.9.13 || ^3.0.0
     dependencies:
